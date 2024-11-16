@@ -55,7 +55,7 @@ Ensure you have the following installed:
 
 ## Results
 
-The notebook will output segmentation results, including visualized bounding boxes and segmented areas. These results can be used for further analysis or integrated into downstream tasks.
+The notebook will output segmentation results, including visualized bounding boxes and segmented areas. These results can be used for further analysis or integrated into downstream tasks. As shown, you can use the segmentation data from SAM2 to create a YOLO compatible segmentation dataset.
 
 ## Contributing
 
